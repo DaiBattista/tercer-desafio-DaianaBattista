@@ -1,0 +1,20 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Tercer desafío backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "nodemon",
+    "express",
+    "app"
+  ],
+  "author": "Daiana Battista",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
